@@ -1,7 +1,7 @@
 [build]
   command = "npm run build:ts"   
 
-  publish = "public", "dist"          
+  publish = "public"
 
 [build.environment]
   NODE_VERSION = "18"
